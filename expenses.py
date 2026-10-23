@@ -32,9 +32,3 @@ while choice != "4":
     print(" 1. Add 2. View 3 Total 4 Exit")
     choice = input("Enter your choice:- ")
 
-
-
-
-
-
-
